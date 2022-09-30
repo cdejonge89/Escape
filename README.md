@@ -18,3 +18,9 @@ Implemented regex validators to ensure emails are accurate.
 Created and stored secret keys to protect users’ information. 
 Created json web tokens along with cookies to keep track of who is logged and what they are saving to their profiles
 </p>
+
+
+
+
+https://user-images.githubusercontent.com/107905648/193355661-6cd7c6ea-8585-44e3-8040-d6b262648ecc.mp4
+
