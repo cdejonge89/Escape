@@ -24,3 +24,10 @@ Created json web tokens along with cookies to keep track of who is logged and wh
 
 https://user-images.githubusercontent.com/107905648/193355661-6cd7c6ea-8585-44e3-8040-d6b262648ecc.mp4
 
+
+
+
+
+
+https://user-images.githubusercontent.com/107905648/193356720-0c6e4f7b-0b24-44ab-9a72-ed8cb595dfdb.mp4
+
